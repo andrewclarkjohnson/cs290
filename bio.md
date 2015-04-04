@@ -6,3 +6,5 @@ Winters are long when we live so we do lots of sledding, skiing and snowboarding
 
 Programming Background
 I first started mucking around with programming in high school back in the 80s. That was with Basic and Fortran.
+In the early/mid 2000s, I started playing around with HTML/CSS/PHP/MySQL to make some fun, dynamic pages full of security holes.
+Now that I'm in this CS program, I've learned C and C++. 
