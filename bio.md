@@ -8,4 +8,5 @@ I'm an associate professor at a Japanese university teaching Communication.
 Programming Background
 I first started mucking around with programming in high school back in the 80s. That was with Basic and Fortran.
 In the early/mid 2000s, I started playing around with HTML/CSS/PHP/MySQL to make some fun, dynamic pages full of security holes.
+In the few years before this CS program, I got into Drupal and I took a course on JAVA. 
 Now that I'm in this CS program, I've learned C and C++. 
